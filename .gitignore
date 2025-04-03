@@ -1,5 +1,5 @@
 # Ignore everything
-/Plex/*
+Plex/*
 
 # Unignore specific directories (but not their contents yet)
 !/Dinit/
