@@ -1,10 +1,11 @@
 # Ignore everything
-Plex/*
+*
 
 # Unignore specific directories (but not their contents yet)
-!/Dinit/
-!/Dinit/plex-media-server-dinit/
-!/openRC/
+!/Plex/
+!/Plex/Dinit/
+!/Plex/Dinit/plex-media-server-dinit/
+!/Plex/openRC/
 
 # Ignore everything inside those directories, but keep the directories themselves
 /Plex/*/*
